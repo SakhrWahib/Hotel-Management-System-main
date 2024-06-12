@@ -38,9 +38,12 @@ Now register and login
 Open the link "http://localhost/Hotel-Management-System/"
 Now register and login
 ```
-
-Make sure the images `1.png`, `2.png`, `3.png`, `4.png`, and `5.png` are placed in the `image` directory of your project so that the paths are correct. If the images are named differently, update the paths accordingly.
-
+## Images
+![Image 1](image/1.png)
+![Image 2](image/2.png)
+![Image 3](image/3.png)
+![Image 4](image/4.png)
+![Image 5](image/5.png)
 
 ### login page
 
